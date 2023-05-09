@@ -44,8 +44,8 @@ if uploaded_file!=None:
       except:
         print("Error")
   for v,k in zip(numbers.values(),numbers.keys()):
-  for n in list(set([item for sublist in v for item in sublist if item])):
-    if len(str(n)) <=2 and n !=0:
-      flat_list[k].append(int(n))
-  
+    for n in list(set([item for sublist in v for item in sublist if item])):
+      if len(str(n)) <=2 and n !=0:
+        flat_list[k].append(int(n))
+
   st.text(flat_list)
