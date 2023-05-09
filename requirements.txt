@@ -4,8 +4,8 @@ transformers==4.5.1
 addict
 yapf
 timm
-numpy
 opencv-python
+numpy
 pycocotools
 packaging==21.3
 addict
