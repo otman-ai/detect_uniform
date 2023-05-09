@@ -9,7 +9,7 @@ opencv-python
 pycocotools
 packaging==21.3
 addict
-
+easyocr
 matplotlib
 numpy
 onnxruntime
