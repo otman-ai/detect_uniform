@@ -1,4 +1,5 @@
 torch
+ultralytics
 torchvision
 transformers==4.5.1
 addict
