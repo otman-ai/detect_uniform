@@ -13,6 +13,7 @@ addict
 easyocr
 matplotlib
 numpy
+opencv-contrib-python
 onnxruntime
 opencv_python
 Pillow
