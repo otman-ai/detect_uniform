@@ -4,7 +4,6 @@ packaging==21.3
 easyocr
 streamlit
 matplotlib
-opencv-contrib-python
 onnxruntime
 Pillow
 torch
